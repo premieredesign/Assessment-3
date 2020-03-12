@@ -1,0 +1,11 @@
+#numberBox {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    border: 1px solid orange;
+    margin: 5px;
+    color: #232f3e;
+    padding: 10px;
+}
